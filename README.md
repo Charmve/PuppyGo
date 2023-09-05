@@ -4,8 +4,8 @@ Vision language model and large language model powered embodied agent.
 
 <div>
   <p>
-    <img src="https://github.com/Charmve/PuppyGo/assets/29084184/6d6bab21-f55b-477c-950c-3f3cebb9174b" width=480>
-    <img src="https://github.com/Charmve/PuppyGo/assets/29084184/2c6b0b4e-0933-496b-89be-25f971ffb5e6" width=360>
+    <img src="src/voxposer.gif" width=460>
+    <img src="src/puppygo.jpg" width=320>
   </p>
 </div>
 
@@ -23,3 +23,30 @@ Vision language model and large language model powered embodied agent.
 This repo was only available to my sponsors on GitHub Sponsors until I reached 15 sponsors.
 
 Learn more about **Sponsorware** at [github.com/sponsorware/docs](https://github.com/sponsorware/docs) 💰.
+
+
+<br>
+
+## Execution under Disturbances
+
+Because the language model output stays the same throughout the task, we can cache its output and re-evaluate the generated code using closed-loop visual feedback, which enables fast replanning using MPC. This enables VoxPoser to be robust to online disturbances.
+      
+<div class="columns">
+  <div class="column has-text-centered">
+    <video id="dist1" controls="" muted="" autoplay="" loop="" width="99%">
+      <source src="src/sort-trash-to-tray-dist.mp4" type="video/mp4">
+    </video>
+    <p style="text-align:center">
+      "Sort the paper trash into the blue tray."
+    </p>
+  </div>
+
+  <div class="column has-text-centered">
+    <video id="dist2" controls="" muted="" autoplay="" loop="" width="99%">
+      <source src="src/close-top-drawer-dist.mp4" type="video/mp4">
+    </video>
+    <p style="text-align:center">
+      "Close the top drawer."
+    </p>
+  </div>
+</div>
