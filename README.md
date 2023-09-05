@@ -2,6 +2,13 @@
 
 Vision language model and large language model powered embodied agent.
 
+<div>
+  <p>
+    <img src="https://github.com/Charmve/PuppyGo/assets/29084184/6d6bab21-f55b-477c-950c-3f3cebb9174b" width=480>
+    <img src="https://github.com/Charmve/PuppyGo/assets/29084184/2c6b0b4e-0933-496b-89be-25f971ffb5e6" width=360>
+  </p>
+</div>
+
 ## Here’s what I did:
 
 - Language Models as Zero-Shot Planners: Extracting Actionable Knowledge for Embodied Agents
