@@ -4,7 +4,7 @@ Vision language model and large language model powered embodied agent.
 
 <div>
   <p>
-    <img src="src/voxposer.gif" width=460>
+    <img src="src/voxposer.gif" width=430>
     <img src="src/puppygo.jpg" width=320>
   </p>
 </div>
@@ -23,6 +23,9 @@ Vision language model and large language model powered embodied agent.
 This repo was only available to my sponsors on GitHub Sponsors until I reached 15 sponsors.
 
 Learn more about **Sponsorware** at [github.com/sponsorware/docs](https://github.com/sponsorware/docs) 💰.
+
+
+![image](https://github.com/Charmve/PuppyGo/assets/29084184/3577e267-53a0-4904-909f-6733995e892e)
 
 
 <br>
